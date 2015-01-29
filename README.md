@@ -1,1 +1,1 @@
-# Brix.io Wiki
+# [Brix.io wiki](https://github.com/brixioapp/doc/wiki)
