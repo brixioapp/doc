@@ -1,1 +1,1 @@
-# doc
+# Brix.io Wiki
